@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="https://github.com/DaveRandom/cloud-to-butt-opera" viewmodes="minimized" version="1.0">
+
+  <name>Cloud To Butt</name>
+  <description>Replaces the text 'the cloud' with 'my butt'.</description>
+  <author>Steven Frank</author>
+  <license href="http://www.opensource.org/licenses/mit-license.html">MIT</license>
+
+  <access origin="*"/>
+
+</widget>
